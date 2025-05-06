@@ -63,8 +63,9 @@ Created a visually rich and responsive webpage inspired by nature using CSS Grid
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roaamounir96)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](roaamounir211@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roaamounir96)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roaamounir211@gmail.com)
+
 
 ## 🎯 My Goals
 - Learn advanced JavaScript and React to build dynamic web applications.
