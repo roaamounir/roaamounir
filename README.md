@@ -1,89 +1,78 @@
-## Hi there 👋<h1 align="center">👋 Hi there, I'm Roaa Mounir</h1>
-
+<h1 align="center">Hi there 👋, I'm Roaa Mounir</h1>
 <p align="center">
-🎓 Beginner Front-End Developer  
-🌱 Learning HTML, CSS, and JavaScript  
-🚀 Eager to build beautiful and responsive websites  
+  🚀 Enthusiastic Front-End Developer | React.js & Next.js <br>
+  💡 Passionate about building scalable and responsive web applications <br>
+  🌱 Focused on clean code, performance optimization, and seamless user experiences
 </p>
 
 ---
 
-## 🧠 About Me
-- 💡 I'm on a journey to become a front-end web developer  
-- 🔍 I love exploring how websites work and how to improve their design  
-- 🎯 Currently learning: **HTML**, **CSS**, **JavaScript**
+## 🧑‍💻 About Me
+I am a Front-End Developer specializing in **React.js** and **Next.js**, with experience in building modern, responsive, and high-performance web applications.  
+I enjoy learning new technologies and contributing to impactful projects.
 
 ---
 
-## 📚 Technologies I'm Learning
+## 🛠️ Technical Skills
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+### Front-End Development
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Angular  
+- **CSS Frameworks & UI Libraries:** Bootstrap, Tailwind CSS, Material UI (MUI)  
+- **Responsive Design:** Mobile-first, RWD, UI/UX Basics
 
----
+### Web Design & Tools
+- Figma (UI/UX Design, Wireframing, Prototyping)
 
-## 📂 Previous Projects
-
-### 🎓 University Website Design  
-Designed a mock-up for a university website with a clean, organized layout to present tutorials, courses, and faculty information.  
-**Tech Used:** HTML, CSS, Bootstrap
-
----
-
-### 🧁 Bakery Website  
-Developed a responsive website for a bakery showcasing products, pricing, and a contact form.  
-**Tech Used:** HTML, CSS, Bootstrap
+### Version Control
+- Git & GitHub (branching, pull requests, collaborative workflows)
 
 ---
 
-### 💼 Fokir Personal Portfolio  
-Built a personal portfolio site featuring skills, projects, and contact info, using a modern and mobile-friendly design.  
-**Tech Used:** HTML, CSS, Bootstrap
+## 📂 Projects
+
+### ☕ Coffee Shop Web App
+- Built a modern, responsive coffee shop application using **Next.js** and **MUI**, optimized for performance and server-side rendering.  
+- **Live Demo:** [demo link]  
+- **GitHub Repo:** [repo link]  
+- **Year:** 2025
+
+### 📚 Book Store Web Application (MERN Stack)
+- Developed a full-stack bookstore app with **user authentication**, product management, and dynamic data handling.  
+- **Live Demo:** [demo link]  
+- **GitHub Repo:** [repo link]  
+- **Year:** 2025
+
+### 🎬 Movie Explorer App
+- Created a responsive movie app using **React.js, Redux, MUI**, and API integration, allowing users to search, filter, and view movie details.  
+- **Live Demo:** [demo link]  
+- **GitHub Repo:** [repo link]  
+- **Year:** 2025
 
 ---
 
-### 🌿 Nature-themed Webpage  
-Created a visually rich and responsive webpage inspired by nature using CSS Grid and Flexbox.  
-**Tech Used:** HTML, CSS, Bootstrap, Grid, Flexbox
+## 🎓 Education
+- **Bachelor of Archaeology (Very Good)**, Cairo University — 2020–2024, Cairo, Egypt
 
 ---
 
-### 🛠️ Currently Working On
-
-**DevFolio Template Customization** – Personalizing a full-featured portfolio template to reflect my own branding and content.
-
+## 💼 Internships
+- **Information Technology Institute (ITI)** — Full Stack Web Development (MERN) 2025–Present, Cairo, Egypt
 
 ---
-## 📚 Courses I'm Taking
 
-### 🚀 Front-End Development Course  
-- **Platform**: Route Academy  
-- **Description**:Learning everything related to Front-End development.
+## 🏆 Certificates
+- **Route Academy (2025)** — Front-End Development Diploma
+
+---
 
 ## 📫 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roaamounir96)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roaamounir211@gmail.com)
 
+---
 
 ## 🎯 My Goals
-- Learn advanced JavaScript and React to build dynamic web applications.
-- Master responsive design and web performance optimization techniques.
-- Contribute to open-source projects and collaborate with other developers.
-- Build a portfolio showcasing various front-end projects using modern web technologies.
-
-<!--
-**roaamounir/roaamounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Master **advanced JavaScript** and **React** to build dynamic web applications.  
+- Learn **Next.js optimizations** and performance best practices.  
+- Contribute to **open-source projects** and collaborate with other developers.  
+- Build a strong portfolio showcasing **modern front-end projects**.
